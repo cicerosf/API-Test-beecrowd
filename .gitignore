@@ -1,3 +1,7 @@
 src/SalesApi/obj
 src/SalesApi/bin
 src/SalesApi/.vs
+
+src/Gateway/obj
+src/Gateway/bin
+src/Gateway/.vs
